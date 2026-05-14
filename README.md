@@ -46,5 +46,6 @@ The system has several steps:
 - Open-source benchmarking of parallel vs sequential inference
 
 ---
-The setup instructions are in setup.md
+- The setup instructions are in setup.md
+- All CSV files can be found in dataset.zip
 
