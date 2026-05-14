@@ -1,0 +1,17 @@
+torch==2.2.2
+transformers==4.40.0
+datasets==2.19.0
+sentence-transformers==2.7.0
+faiss-cpu==1.8.0
+spacy==3.7.4
+scikit-learn==1.4.2
+pandas==2.2.2
+numpy==1.26.4
+tqdm==4.66.4
+flask==3.0.3
+requests==2.31.0
+evaluate==0.4.1
+rouge-score==0.1.2
+bert-score==0.3.13
+aiohttp==3.9.5
+conceptnet-lite==0.0.8
